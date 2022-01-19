@@ -1,4 +1,4 @@
-{"Version":"1.2",
+{"Version":"1.3",
 
 "Url":"https://github.com/drmvpn/files/raw/main/vpn.zip" ,
 
@@ -13,7 +13,7 @@ DTAC 2 เซิฟเวอร์
 TRUE​ 2 เซิฟเวอร์
 
 ซิม&โปรที่ใช้งานได้
-ซิม​ AIS ทุกโปร
+ซิม​ AIS ทุกโปร​/AISPLAY
 ซิม​ DTAC โปร​ LAZADA/ไม่มีโปร
 ซิม​ TRUE​  โปรเรียนฟรี
 ",
