@@ -1,11 +1,11 @@
-{"Version":"1.1",
+{"Version":"1.2",
 
 "Url":"https://github.com/drmvpn/files/raw/main/vpn.zip" ,
 
 "Changelog":"  
 
 ยินดีต้อนรับสู่ DRM VPN
-รายการอัพเดท 14 .มิ.ย.​ 2564
+รายการอัพเดท 20 JAN 2022
 
 ไฟล์สำหรับต่อวีพีเอน ปัจจุบัน
 AIS 2 เซิฟเวอร์
@@ -14,7 +14,7 @@ TRUE​ 2 เซิฟเวอร์
 
 ซิม&โปรที่ใช้งานได้
 ซิม​ AIS ทุกโปร
-ซิม​ DTAC โปร​ Happy Work 
+ซิม​ DTAC โปร​ LAZADA/ไม่มีโปร
 ซิม​ TRUE​  โปรเรียนฟรี
 ",
 
